@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kapiteinsstem beluisteren</title>
+<style>
+  :root { color-scheme: light; }
+  body { margin: 0; min-height: 100vh; font-family: system-ui, sans-serif; background: #e8f7fb; color: #203b42; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 20px 56px; }
+  h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); margin: 0 0 8px; }
+  p { line-height: 1.55; }
+  .card { background: #fff; border: 1px solid #b9e2eb; border-radius: 20px; padding: 18px; margin: 16px 0; box-shadow: 0 8px 24px rgba(8,127,157,.08); }
+  .card h2 { margin: 0 0 4px; font-size: 1.15rem; }
+  .card p { margin: 0 0 12px; color: #4b6b73; font-size: .95rem; }
+  audio { width: 100%; }
+  .chosen { border-color: #087f9d; box-shadow: 0 0 0 3px rgba(8,127,157,.14), 0 8px 24px rgba(8,127,157,.10); }
+  .badge { display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: 999px; background: #087f9d; color: #fff; font-size: .72rem; vertical-align: middle; }
+  .note { font-size: .9rem; color: #4b6b73; }
+  a { color: #087f9d; }
+</style>
+</head>
+<body>
+<main>
+  <p class="note"><a href="../index.html">← Terug naar de app</a></p>
+  <h1>Welke kapiteinsstem?</h1>
+  <p>Zelfde zin, vier klanken. Beluister ze en kies wat het beste voelt. <strong>B</strong> is de nieuwe standaard: iets zwaarder en een beetje hees.</p>
+
+  <div class="card">
+    <h2>A — Huidig</h2>
+    <p>De stem van de eerste versie. Iets lichter en schoner.</p>
+    <audio controls preload="none" src="audition/A_huidig.mp3"></audio>
+  </div>
+
+  <div class="card chosen">
+    <h2>B — Zwaarder <span class="badge">nieuwe standaard</span></h2>
+    <p>Ongeveer een kleine anderhalve toon lager, warmer in de borst en met een licht hees randje.</p>
+    <audio controls preload="none" src="audition/B_zwaarder.mp3"></audio>
+  </div>
+
+  <div class="card">
+    <h2>C — Zwaarder + duidelijk hees</h2>
+    <p>Nog wat ruwer en raspiger. Kan voor sommige zinnen wat schor klinken.</p>
+    <audio controls preload="none" src="audition/C_zwaar_hees.mp3"></audio>
+  </div>
+
+  <div class="card">
+    <h2>D — Alternatieve stem (RDH)</h2>
+    <p>Een andere, van nature wat oudere mannenstem. Minder gepolijst, maar mogelijk net echter voor een kapitein.</p>
+    <audio controls preload="none" src="audition/D_rdh.mp3"></audio>
+  </div>
+
+  <p class="note">De zin is: “Hoi Jaren! Ik ben de kapitein. Kies een missie en neem rustig je tijd. De wasmand is vol! Nu mag je het thuis doen.”</p>
+</main>
+</body>
+</html>

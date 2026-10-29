@@ -1,0 +1,553 @@
+{
+  "voice": "nl-BE-ArnaudNeural",
+  "rate": "-7%",
+  "pitch": "-18Hz",
+  "count": 109,
+  "clips": [
+    {
+      "key": "afval weggooien stap 1 van 3 pak het afgesproken veilige afval",
+      "text": "Afval weggooien. Stap 1 van 3. Pak het afgesproken veilige afval.",
+      "file": "voice/clips/1f32de227eb6.mp3"
+    },
+    {
+      "key": "afval weggooien stap 2 van 3 kies samen de juiste bak",
+      "text": "Afval weggooien. Stap 2 van 3. Kies samen de juiste bak.",
+      "file": "voice/clips/c7d09188612f.mp3"
+    },
+    {
+      "key": "afval weggooien stap 3 van 3 gooi het afval erin",
+      "text": "Afval weggooien. Stap 3 van 3. Gooi het afval erin.",
+      "file": "voice/clips/c00fa3462b7a.mp3"
+    },
+    {
+      "key": "alle speeltjes zitten in de bak nu mag je het thuis doen",
+      "text": "Alle speeltjes zitten in de bak! Nu mag je het thuis doen.",
+      "file": "voice/clips/9db6e6c80015.mp3"
+    },
+    {
+      "key": "alles zit in de papierbak nu mag je het thuis doen",
+      "text": "Alles zit in de papierbak! Nu mag je het thuis doen.",
+      "file": "voice/clips/9af1ddf80997.mp3"
+    },
+    {
+      "key": "bekijk samen het opgeruimde plekje",
+      "text": "Bekijk samen het opgeruimde plekje.",
+      "file": "voice/clips/94cb5e54d079.mp3"
+    },
+    {
+      "key": "boekentas klaarzetten stap 1 van 3 kijk samen wat er mee moet",
+      "text": "Boekentas klaarzetten. Stap 1 van 3. Kijk samen wat er mee moet.",
+      "file": "voice/clips/f175722a679e.mp3"
+    },
+    {
+      "key": "boekentas klaarzetten stap 2 van 3 stop de spullen in je tas",
+      "text": "Boekentas klaarzetten. Stap 2 van 3. Stop de spullen in je tas.",
+      "file": "voice/clips/45a0df163cca.mp3"
+    },
+    {
+      "key": "boekentas klaarzetten stap 3 van 3 zet je tas op de vaste plek",
+      "text": "Boekentas klaarzetten. Stap 3 van 3. Zet je tas op de vaste plek.",
+      "file": "voice/clips/f9021eb04e65.mp3"
+    },
+    {
+      "key": "bordje wegzetten stap 1 van 3 pak je eigen bord",
+      "text": "Bordje wegzetten. Stap 1 van 3. Pak je eigen bord.",
+      "file": "voice/clips/fa576feaf327.mp3"
+    },
+    {
+      "key": "bordje wegzetten stap 2 van 3 breng het rustig naar de afgesproken plek",
+      "text": "Bordje wegzetten. Stap 2 van 3. Breng het rustig naar de afgesproken plek.",
+      "file": "voice/clips/4afd99768599.mp3"
+    },
+    {
+      "key": "bordje wegzetten stap 3 van 3 zet het bord veilig neer",
+      "text": "Bordje wegzetten. Stap 3 van 3. Zet het bord veilig neer.",
+      "file": "voice/clips/e2d433f88b80.mp3"
+    },
+    {
+      "key": "breng het rustig naar de afgesproken plek",
+      "text": "Breng het rustig naar de afgesproken plek.",
+      "file": "voice/clips/c9cb26e96e61.mp3"
+    },
+    {
+      "key": "breng ze rustig naar de wasmand",
+      "text": "Breng ze rustig naar de wasmand.",
+      "file": "voice/clips/f4432f927b49.mp3"
+    },
+    {
+      "key": "bubbelaquarium is van jou",
+      "text": "Bubbelaquarium is van jou.",
+      "file": "voice/clips/f8dd207c047b.mp3"
+    },
+    {
+      "key": "de broek zit in de wasmand",
+      "text": "De broek zit in de wasmand.",
+      "file": "voice/clips/992094b4e5e2.mp3"
+    },
+    {
+      "key": "de brooddoos zit in de tas",
+      "text": "De brooddoos zit in de tas!",
+      "file": "voice/clips/3b60e747c38d.mp3"
+    },
+    {
+      "key": "de drinkfles zit in de tas",
+      "text": "De drinkfles zit in de tas!",
+      "file": "voice/clips/a578b2983c83.mp3"
+    },
+    {
+      "key": "de knuffel ligt in de speelgoedbak",
+      "text": "De knuffel ligt in de speelgoedbak!",
+      "file": "voice/clips/a8cd9f488eb3.mp3"
+    },
+    {
+      "key": "de puzzel ligt in de speelgoedbak",
+      "text": "De puzzel ligt in de speelgoedbak!",
+      "file": "voice/clips/d8be339839ee.mp3"
+    },
+    {
+      "key": "de sokken zitten in de wasmand",
+      "text": "De sokken zitten in de wasmand.",
+      "file": "voice/clips/f8a6bab15ab9.mp3"
+    },
+    {
+      "key": "de wasmand is vol nu mag je het thuis doen",
+      "text": "De wasmand is vol! Nu mag je het thuis doen.",
+      "file": "voice/clips/09368158d3ee.mp3"
+    },
+    {
+      "key": "deze stap bekijk samen het opgeruimde plekje",
+      "text": "Deze stap: Bekijk samen het opgeruimde plekje.",
+      "file": "voice/clips/979448066beb.mp3"
+    },
+    {
+      "key": "deze stap breng het rustig naar de afgesproken plek",
+      "text": "Deze stap: Breng het rustig naar de afgesproken plek.",
+      "file": "voice/clips/c9113072e98b.mp3"
+    },
+    {
+      "key": "deze stap breng ze rustig naar de wasmand",
+      "text": "Deze stap: Breng ze rustig naar de wasmand.",
+      "file": "voice/clips/ce5d5e6c1c7f.mp3"
+    },
+    {
+      "key": "deze stap gooi het afval erin",
+      "text": "Deze stap: Gooi het afval erin.",
+      "file": "voice/clips/c04e675c09d1.mp3"
+    },
+    {
+      "key": "deze stap kies samen de juiste bak",
+      "text": "Deze stap: Kies samen de juiste bak.",
+      "file": "voice/clips/3cd0efc0ddc3.mp3"
+    },
+    {
+      "key": "deze stap kies één speelgoedsoort",
+      "text": "Deze stap: Kies één speelgoedsoort.",
+      "file": "voice/clips/54dfed3d6bef.mp3"
+    },
+    {
+      "key": "deze stap kijk samen wat er mee moet",
+      "text": "Deze stap: Kijk samen wat er mee moet.",
+      "file": "voice/clips/223230c28493.mp3"
+    },
+    {
+      "key": "deze stap leg de kleren in de wasmand",
+      "text": "Deze stap: Leg de kleren in de wasmand.",
+      "file": "voice/clips/3151049423bc.mp3"
+    },
+    {
+      "key": "deze stap pak de afgesproken vuile kleren",
+      "text": "Deze stap: Pak de afgesproken vuile kleren.",
+      "file": "voice/clips/2643653bb07a.mp3"
+    },
+    {
+      "key": "deze stap pak het afgesproken veilige afval",
+      "text": "Deze stap: Pak het afgesproken veilige afval.",
+      "file": "voice/clips/2ef677e1600e.mp3"
+    },
+    {
+      "key": "deze stap pak je eigen bord",
+      "text": "Deze stap: Pak je eigen bord.",
+      "file": "voice/clips/f668af07c714.mp3"
+    },
+    {
+      "key": "deze stap stop de spullen in je tas",
+      "text": "Deze stap: Stop de spullen in je tas.",
+      "file": "voice/clips/ec5993f4071c.mp3"
+    },
+    {
+      "key": "deze stap stop die in de juiste bak",
+      "text": "Deze stap: Stop die in de juiste bak.",
+      "file": "voice/clips/078412b41439.mp3"
+    },
+    {
+      "key": "deze stap zet het bord veilig neer",
+      "text": "Deze stap: Zet het bord veilig neer.",
+      "file": "voice/clips/19d696f6fec5.mp3"
+    },
+    {
+      "key": "deze stap zet je tas op de vaste plek",
+      "text": "Deze stap: Zet je tas op de vaste plek.",
+      "file": "voice/clips/df2a0a0add49.mp3"
+    },
+    {
+      "key": "dit is schoon droog papier probeer de papierbak",
+      "text": "Dit is schoon, droog papier. Probeer de papierbak.",
+      "file": "voice/clips/0d278f24e9f3.mp3"
+    },
+    {
+      "key": "dit is schoon droog papier waar hoort het tik op de papierbak neem rustig je tijd",
+      "text": "Dit is schoon, droog papier. Waar hoort het? Tik op de papierbak. Neem rustig je tijd.",
+      "file": "voice/clips/50865752f45e.mp3"
+    },
+    {
+      "key": "duikhelm is van jou",
+      "text": "Duikhelm is van jou.",
+      "file": "voice/clips/706755e8fc57.mp3"
+    },
+    {
+      "key": "goed gebubbeld",
+      "text": "Goed gebubbeld!",
+      "file": "voice/clips/bf2f261792ed.mp3"
+    },
+    {
+      "key": "goed gedaan laat het even aan mama of papa zien",
+      "text": "Goed gedaan! Laat het even aan mama of papa zien.",
+      "file": "voice/clips/8e4477ae2fe4.mp3"
+    },
+    {
+      "key": "goed gedaan laat het even aan mama of papa zien je hoeft niets opnieuw te doen",
+      "text": "Goed gedaan! Laat het even aan mama of papa zien. Je hoeft niets opnieuw te doen.",
+      "file": "voice/clips/a7a19bdf6126.mp3"
+    },
+    {
+      "key": "goed geoefend met afval sorteren nu mag je het thuis doen",
+      "text": "Goed geoefend met afval sorteren! Nu mag je het thuis doen.",
+      "file": "voice/clips/8d8f0aaa55ce.mp3"
+    },
+    {
+      "key": "goed geoefend met de wasmand nu mag je het thuis doen",
+      "text": "Goed geoefend met de wasmand! Nu mag je het thuis doen.",
+      "file": "voice/clips/57e5a2112ace.mp3"
+    },
+    {
+      "key": "goed geoefend met het bordje nu mag je het thuis doen",
+      "text": "Goed geoefend met het bordje! Nu mag je het thuis doen.",
+      "file": "voice/clips/ddc5594973f0.mp3"
+    },
+    {
+      "key": "goed geoefend met je boekentas nu mag je het thuis doen",
+      "text": "Goed geoefend met je boekentas! Nu mag je het thuis doen.",
+      "file": "voice/clips/32dbb7a0f4cc.mp3"
+    },
+    {
+      "key": "goed geoefend met opruimen nu mag je het thuis doen",
+      "text": "Goed geoefend met opruimen! Nu mag je het thuis doen.",
+      "file": "voice/clips/7bcdcb33858f.mp3"
+    },
+    {
+      "key": "goed zo papier hoort bij papier",
+      "text": "Goed zo! Papier hoort bij papier.",
+      "file": "voice/clips/015c9a54e114.mp3"
+    },
+    {
+      "key": "gooi het afval erin",
+      "text": "Gooi het afval erin.",
+      "file": "voice/clips/ea940ad70a97.mp3"
+    },
+    {
+      "key": "hallo jaren ik lees weer voor",
+      "text": "Hallo Jaren! Ik lees weer voor.",
+      "file": "voice/clips/7d8e8b755585.mp3"
+    },
+    {
+      "key": "het afval zit in de juiste bak de zee blijft een beetje schoner je kreeg 3 kwallen",
+      "text": "Het afval zit in de juiste bak. De zee blijft een beetje schoner! Je kreeg 3 kwallen.",
+      "file": "voice/clips/4d759c9f3bb9.mp3"
+    },
+    {
+      "key": "het autootje ligt in de speelgoedbak",
+      "text": "Het autootje ligt in de speelgoedbak!",
+      "file": "voice/clips/7daee9b5e689.mp3"
+    },
+    {
+      "key": "het boek zit in de tas",
+      "text": "Het boek zit in de tas!",
+      "file": "voice/clips/83f017183064.mp3"
+    },
+    {
+      "key": "het bordje staat op de afruimplek nu mag je het thuis doen",
+      "text": "Het bordje staat op de afruimplek! Nu mag je het thuis doen.",
+      "file": "voice/clips/99029bce79f9.mp3"
+    },
+    {
+      "key": "het jurkje zit in de wasmand",
+      "text": "Het jurkje zit in de wasmand.",
+      "file": "voice/clips/cb5364788d3b.mp3"
+    },
+    {
+      "key": "het t shirt zit in de wasmand",
+      "text": "Het T-shirt zit in de wasmand.",
+      "file": "voice/clips/5d4573fab4d9.mp3"
+    },
+    {
+      "key": "hoi jaren dit kun je vandaag doen kies een missie je mag altijd om hulp of pauze vragen",
+      "text": "Hoi Jaren! Dit kun je vandaag doen. Kies een missie. Je mag altijd om hulp of pauze vragen.",
+      "file": "voice/clips/c6ce5d9ef4ab.mp3"
+    },
+    {
+      "key": "je aanvraag is verstuurd mama of birger bevestigt de afspraak",
+      "text": "Je aanvraag is verstuurd. Mama of Birger bevestigt de afspraak.",
+      "file": "voice/clips/b97558d9a889.mp3"
+    },
+    {
+      "key": "je bord staat veilig op de afgesproken plek dank je wel je kreeg 5 kwallen",
+      "text": "Je bord staat veilig op de afgesproken plek. Dank je wel! Je kreeg 5 kwallen.",
+      "file": "voice/clips/4f64234c90cd.mp3"
+    },
+    {
+      "key": "je kleren liggen in de wasmand dat helpt ons thuis je kreeg 5 kwallen",
+      "text": "Je kleren liggen in de wasmand. Dat helpt ons thuis. Je kreeg 5 kwallen.",
+      "file": "voice/clips/eea5568772ce.mp3"
+    },
+    {
+      "key": "je koos de broek tik nu op de wasmand",
+      "text": "Je koos de broek. Tik nu op de wasmand.",
+      "file": "voice/clips/d43e274d9939.mp3"
+    },
+    {
+      "key": "je koos de sokken tik nu op de wasmand",
+      "text": "Je koos de sokken. Tik nu op de wasmand.",
+      "file": "voice/clips/17a477632561.mp3"
+    },
+    {
+      "key": "je koos het jurkje tik nu op de wasmand",
+      "text": "Je koos het jurkje. Tik nu op de wasmand.",
+      "file": "voice/clips/fbcfaab17d1b.mp3"
+    },
+    {
+      "key": "je koos het t shirt tik nu op de wasmand",
+      "text": "Je koos het T-shirt. Tik nu op de wasmand.",
+      "file": "voice/clips/7f2ffddc9403.mp3"
+    },
+    {
+      "key": "je speelplek is weer opgeruimd fijn gedaan je kreeg 10 kwallen",
+      "text": "Je speelplek is weer opgeruimd. Fijn gedaan! Je kreeg 10 kwallen.",
+      "file": "voice/clips/dea0aaa8c7bd.mp3"
+    },
+    {
+      "key": "je tas is klaar nu mag je het thuis doen",
+      "text": "Je tas is klaar! Nu mag je het thuis doen.",
+      "file": "voice/clips/4671c329fce0.mp3"
+    },
+    {
+      "key": "je tas staat klaar voor de vaarschool goed voorbereid je kreeg 10 kwallen",
+      "text": "Je tas staat klaar voor de vaarschool. Goed voorbereid! Je kreeg 10 kwallen.",
+      "file": "voice/clips/1db4ea9cc435.mp3"
+    },
+    {
+      "key": "kies samen de juiste bak",
+      "text": "Kies samen de juiste bak.",
+      "file": "voice/clips/d96dcaf187ca.mp3"
+    },
+    {
+      "key": "kies één speelgoedsoort",
+      "text": "Kies één speelgoedsoort.",
+      "file": "voice/clips/74f4ac9e0c82.mp3"
+    },
+    {
+      "key": "kijk samen wat er mee moet",
+      "text": "Kijk samen wat er mee moet.",
+      "file": "voice/clips/cafae3b66c7e.mp3"
+    },
+    {
+      "key": "klaar met je missie laat het even aan mama of papa zien",
+      "text": "Klaar met je missie? Laat het even aan mama of papa zien.",
+      "file": "voice/clips/38dae81e8aae.mp3"
+    },
+    {
+      "key": "kleren in de wasmand stap 1 van 3 pak de afgesproken vuile kleren",
+      "text": "Kleren in de wasmand. Stap 1 van 3. Pak de afgesproken vuile kleren.",
+      "file": "voice/clips/a529036f18a0.mp3"
+    },
+    {
+      "key": "kleren in de wasmand stap 2 van 3 breng ze rustig naar de wasmand",
+      "text": "Kleren in de wasmand. Stap 2 van 3. Breng ze rustig naar de wasmand.",
+      "file": "voice/clips/11ae31962e63.mp3"
+    },
+    {
+      "key": "kleren in de wasmand stap 3 van 3 leg de kleren in de wasmand",
+      "text": "Kleren in de wasmand. Stap 3 van 3. Leg de kleren in de wasmand.",
+      "file": "voice/clips/bcbc06943ea7.mp3"
+    },
+    {
+      "key": "kwallenvangersnetje is van jou",
+      "text": "Kwallenvangersnetje is van jou.",
+      "file": "voice/clips/a0cd19ff5ca7.mp3"
+    },
+    {
+      "key": "leg de kleren in de wasmand",
+      "text": "Leg de kleren in de wasmand.",
+      "file": "voice/clips/8d12c5c9fa23.mp3"
+    },
+    {
+      "key": "loop naar de afruimplek",
+      "text": "Loop naar de afruimplek",
+      "file": "voice/clips/0c32b10fd132.mp3"
+    },
+    {
+      "key": "pak de afgesproken vuile kleren",
+      "text": "Pak de afgesproken vuile kleren.",
+      "file": "voice/clips/35c93634fea3.mp3"
+    },
+    {
+      "key": "pak het afgesproken veilige afval",
+      "text": "Pak het afgesproken veilige afval.",
+      "file": "voice/clips/66ec58e464b2.mp3"
+    },
+    {
+      "key": "pak je bord",
+      "text": "Pak je bord",
+      "file": "voice/clips/a9473f5254f8.mp3"
+    },
+    {
+      "key": "pak je eigen bord",
+      "text": "Pak je eigen bord.",
+      "file": "voice/clips/a635e33bed22.mp3"
+    },
+    {
+      "key": "pauze je stap blijft bewaard",
+      "text": "Pauze. Je stap blijft bewaard.",
+      "file": "voice/clips/03c67dbe75eb.mp3"
+    },
+    {
+      "key": "piratenhoed is van jou",
+      "text": "Piratenhoed is van jou.",
+      "file": "voice/clips/143eac761f03.mp3"
+    },
+    {
+      "key": "piratenraam is van jou",
+      "text": "Piratenraam is van jou.",
+      "file": "voice/clips/1185dbb6ecae.mp3"
+    },
+    {
+      "key": "schatkist is van jou",
+      "text": "Schatkist is van jou.",
+      "file": "voice/clips/16e144f6de66.mp3"
+    },
+    {
+      "key": "schelpenlamp is van jou",
+      "text": "Schelpenlamp is van jou.",
+      "file": "voice/clips/84329aa3546b.mp3"
+    },
+    {
+      "key": "speelgoed opruimen stap 1 van 3 kies één speelgoedsoort",
+      "text": "Speelgoed opruimen. Stap 1 van 3. Kies één speelgoedsoort.",
+      "file": "voice/clips/91894681594d.mp3"
+    },
+    {
+      "key": "speelgoed opruimen stap 2 van 3 stop die in de juiste bak",
+      "text": "Speelgoed opruimen. Stap 2 van 3. Stop die in de juiste bak.",
+      "file": "voice/clips/3bcaeccb9d7d.mp3"
+    },
+    {
+      "key": "speelgoed opruimen stap 3 van 3 bekijk samen het opgeruimde plekje",
+      "text": "Speelgoed opruimen. Stap 3 van 3. Bekijk samen het opgeruimde plekje.",
+      "file": "voice/clips/b59230ebab40.mp3"
+    },
+    {
+      "key": "stop de spullen in je tas",
+      "text": "Stop de spullen in je tas.",
+      "file": "voice/clips/5e5b7c417ce1.mp3"
+    },
+    {
+      "key": "stop die in de juiste bak",
+      "text": "Stop die in de juiste bak.",
+      "file": "voice/clips/5559ca0e4b1d.mp3"
+    },
+    {
+      "key": "superheldencape is van jou",
+      "text": "Superheldencape is van jou.",
+      "file": "voice/clips/a29f4f1d82e6.mp3"
+    },
+    {
+      "key": "tik op de brooddoos de drinkfles en het boek dan zitten ze in je tas neem rustig je tijd",
+      "text": "Tik op de brooddoos, de drinkfles en het boek. Dan zitten ze in je tas. Neem rustig je tijd.",
+      "file": "voice/clips/1da59db5a901.mp3"
+    },
+    {
+      "key": "tik op de bubbels om ze te laten ploppen je mag stoppen wanneer je wilt neem rustig je tijd",
+      "text": "Tik op de bubbels om ze te laten ploppen. Je mag stoppen wanneer je wilt. Neem rustig je tijd.",
+      "file": "voice/clips/c631c1023f97.mp3"
+    },
+    {
+      "key": "tik op de speeltjes dan gaan ze in de speelgoedbak neem rustig je tijd",
+      "text": "Tik op de speeltjes. Dan gaan ze in de speelgoedbak. Neem rustig je tijd.",
+      "file": "voice/clips/e729db8f67f3.mp3"
+    },
+    {
+      "key": "tik op de stap die oplicht eerst je bord pakken dan lopen dan neerzetten neem rustig je tijd",
+      "text": "Tik op de stap die oplicht. Eerst je bord pakken, dan lopen, dan neerzetten. Neem rustig je tijd.",
+      "file": "voice/clips/aae5558f7870.mp3"
+    },
+    {
+      "key": "tik op een kledingstuk tik daarna op de wasmand neem rustig je tijd",
+      "text": "Tik op een kledingstuk. Tik daarna op de wasmand. Neem rustig je tijd.",
+      "file": "voice/clips/099f35019c07.mp3"
+    },
+    {
+      "key": "vraag mama of papa om de eerste stap samen te doen kies één speelgoedsoort",
+      "text": "Vraag mama of papa om de eerste stap samen te doen: Kies één speelgoedsoort.",
+      "file": "voice/clips/80bed4940aee.mp3"
+    },
+    {
+      "key": "vraag mama of papa om de eerste stap samen te doen kijk samen wat er mee moet",
+      "text": "Vraag mama of papa om de eerste stap samen te doen: Kijk samen wat er mee moet.",
+      "file": "voice/clips/fa850a95fbd6.mp3"
+    },
+    {
+      "key": "vraag mama of papa om de eerste stap samen te doen pak de afgesproken vuile kleren",
+      "text": "Vraag mama of papa om de eerste stap samen te doen: Pak de afgesproken vuile kleren.",
+      "file": "voice/clips/94d94e84acc5.mp3"
+    },
+    {
+      "key": "vraag mama of papa om de eerste stap samen te doen pak het afgesproken veilige afval",
+      "text": "Vraag mama of papa om de eerste stap samen te doen: Pak het afgesproken veilige afval.",
+      "file": "voice/clips/116fbd64d04b.mp3"
+    },
+    {
+      "key": "vraag mama of papa om de eerste stap samen te doen pak je eigen bord",
+      "text": "Vraag mama of papa om de eerste stap samen te doen: Pak je eigen bord.",
+      "file": "voice/clips/4b5ec1d655b3.mp3"
+    },
+    {
+      "key": "waarmee kan ik helpen",
+      "text": "Waarmee kan ik helpen?",
+      "file": "voice/clips/0b3b89a15aa2.mp3"
+    },
+    {
+      "key": "werknemersmuts is van jou",
+      "text": "Werknemersmuts is van jou.",
+      "file": "voice/clips/af5e26327b16.mp3"
+    },
+    {
+      "key": "zeesterrenmat is van jou",
+      "text": "Zeesterrenmat is van jou.",
+      "file": "voice/clips/e65dcc7e26cc.mp3"
+    },
+    {
+      "key": "zet het bord veilig neer",
+      "text": "Zet het bord veilig neer.",
+      "file": "voice/clips/cb43a3ca0223.mp3"
+    },
+    {
+      "key": "zet je bord neer",
+      "text": "Zet je bord neer",
+      "file": "voice/clips/f30d19b04627.mp3"
+    },
+    {
+      "key": "zet je tas op de vaste plek",
+      "text": "Zet je tas op de vaste plek.",
+      "file": "voice/clips/1256c192db3e.mp3"
+    }
+  ]
+}

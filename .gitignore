@@ -1,0 +1,13 @@
+# Opgeslagen webpagina's en kladbestanden horen niet in de repo
+HeyGen - Avatar.mhtml
+HeyGen - HeyGen.html
+Stem.mhtml
+Spongebob SquarePants - Intro (Dutch) _ Audioscrape.html
+Spongebob SquarePants - Intro (Dutch) _ Audioscrape_files/
+minigames-met-jouw-jaren.html
+spelontwerp_held_van_biquini_broek.md
+
+# Lokaal grut
+.DS_Store
+__pycache__/
+*.pyc
